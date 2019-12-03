@@ -1,0 +1,4 @@
+Nunit3testAdapter
+Nunit
+Microsoft.NET.Test.Sdk
+SpecFlow.NUnit>runners
