@@ -1,0 +1,7 @@
+C:\Users\Nov_Admin\source\repos\Primes\MakeUpANumber\obj\Debug\MakeUpANumber.csproj.CoreCompileInputs.cache
+C:\Users\Nov_Admin\source\repos\Primes\MakeUpANumber\bin\Debug\MakeUpANumber.exe.config
+C:\Users\Nov_Admin\source\repos\Primes\MakeUpANumber\bin\Debug\MakeUpANumber.exe
+C:\Users\Nov_Admin\source\repos\Primes\MakeUpANumber\bin\Debug\MakeUpANumber.pdb
+C:\Users\Nov_Admin\source\repos\Primes\MakeUpANumber\obj\Debug\MakeUpANumber.exe
+C:\Users\Nov_Admin\source\repos\Primes\MakeUpANumber\obj\Debug\MakeUpANumber.pdb
+C:\Users\Nov_Admin\source\repos\Primes\MakeUpANumber\obj\Debug\MakeUpANumber.csprojAssemblyReference.cache
